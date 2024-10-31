@@ -9,7 +9,7 @@ include "slider.php";
 
 
     <!-- News With Sidebar Start -->
-   <?php include "latest-new.php" ?>
+   <?php include "latest-news.php" ?>
     <!-- News With Sidebar End -->
 <?php include "footer.php" ?>
 
